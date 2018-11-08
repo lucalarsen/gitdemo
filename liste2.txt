@@ -12,4 +12,6 @@ kiwi
 bananer
 æbler
 tomater
+ægg
+agurk
 
