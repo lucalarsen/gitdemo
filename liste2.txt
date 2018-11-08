@@ -7,4 +7,6 @@ sukker
 sodavand 
 chips
 matador mix
+bananer
+æbler
 
