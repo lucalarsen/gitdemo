@@ -9,5 +9,6 @@ chips
 matador mix
 ananas
 kiwi
-
+bananer
+æbler
 
